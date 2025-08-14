@@ -1,15 +1,19 @@
 {
   "name": "@winner-fed/plugin-element-ui",
+  "description": "A WinJS plugin for Element UI to automatically import components and use tree-shaking to reduce the size of the bundle.",
   "keywords": [
     "winjs",
     "plugin",
-    "template",
+    "element-ui",
+    "vue",
+    "vue2",
+    "auto-import",
+    "ui-library",
+    "components",
     "winner-fed",
-    "winjs-dev",
-    "rslib",
-    "rsbuild",
     "typescript",
-    "biome"
+    "unplugin-vue-components",
+    "tree-shaking"
   ],
   "version": "1.0.0",
   "repository": {
